@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.1",
+    "postman-request": "^2.88.1-postman.33",
+    "react-toastify": "^9.1.3"
+  }
+}
